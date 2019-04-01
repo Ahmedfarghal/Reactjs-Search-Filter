@@ -1,5 +1,5 @@
 
-## Available Scripts
+## ReactJs Search Filter
 
 In the project directory, you can run:
 
